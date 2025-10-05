@@ -2,6 +2,18 @@
 
 Site institucional da Secretaria de Cultura de Moreno - PE, desenvolvido para divulgar eventos culturais, exposições, apresentações e oficinas da cidade.
 
+## 📚 Informações Acadêmicas
+
+**Projeto de Extensão II - 5º Período**  
+**Aluno:** Francieudes Silva Noberto Alves  
+**Faculdade:** UNOPAR - Polo Boa Vista  
+**Localização:** Recife - PE  
+**Disciplina:** Projeto de Extensão II  
+
+---
+
+Este projeto foi desenvolvido como parte das atividades acadêmicas do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar os conhecimentos adquiridos em desenvolvimento web moderno para criar uma solução real para a comunidade de Moreno - PE.
+
 ## 🚀 Tecnologias Utilizadas
 
 - **React 18** - Biblioteca para interface de usuário
