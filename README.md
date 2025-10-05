@@ -169,8 +169,7 @@ Para contribuir com o projeto:
 ## 📞 Suporte
 
 Para dúvidas ou suporte, entre em contato:
-- Email: cultura@moreno.pe.gov.br
-- Telefone: (81) 3533-1234
+- Email: eudes.sna@gmail.com
 
 ---
 
